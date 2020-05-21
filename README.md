@@ -14,7 +14,10 @@ This project requires you to have a Twitter Developer Account in order to prepar
 
 ### Data Pre-processing
 
-For data pre-processing steps of both of the datasets, we have followed the same methodology. Removing punctuation words, building the vocabulary and extracting word features for both the training and test set.
+For data pre-processing steps for both of the datasets, we have followed the same methodology:
+- Removing punctuation words,special symbols,URLs
+- Building the vocabulary  
+- Extracting word features for both the training and test set
 
 ### Naive-Bayes Method
 
